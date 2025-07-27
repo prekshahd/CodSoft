@@ -40,7 +40,7 @@ This repository contains all the tasks I completed as part of the **CodSoft Java
 ---
 
 ## 🔗 GitHub Repo Link  
-🔗 [Click here to view the repository]
+🔗 [Click here to view the repository](https://github.com/prekshahd/CodSoft.git)
 
 ---
 
